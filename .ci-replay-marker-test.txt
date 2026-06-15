@@ -1,0 +1,3 @@
+# CI replay marker for test/bash
+feature_branch: replay-a3336c3e
+workflow: .github/workflows/release.yml
